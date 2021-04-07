@@ -1,1 +1,9 @@
-# SimpleJavaProjects
+# SimpleJavaProjects || 2019
+
+There are some Java Projects which i have done when i have just learned java.
+
+* <a href="https://github.com/myanar7/SimpleJavaProjects/blob/main/GridGame2d.java">Grid Game</a> :The main purpose of this assignment is to write a two-dimensional Grid Game. In this game, there is a person and multiple items. Items placed into the cell randomly. Person start cell point is (0,0) and cell status is 2. The aim of this game is the person collects all the items with limited number of movement. The user will move the person in the game with the right (R), left (L), down (D) and up (U) keys
+* <a href="https://github.com/myanar7/SimpleJavaProjects/blob/main/NumberMethods.java">Number Methods</a> :In this assignment, the main purpose is to write a program that asks the user to enter two positive integer values: startval, and endval. The program will then find all numbers that fall between startval and endval according to menu that you will prepare.
+* <a href="https://github.com/myanar7/SimpleJavaProjects/blob/main/PatternMaker.java">PatternMaker</a> :The purpose of this program is to write a program that prompts the user to enter an integer number (N) and a character then displays the following (2N+1)-by-(2N+1) diamond pattern.
+* <a href="https://github.com/myanar7/SimpleJavaProjects/blob/main/SumOfCubes.java">SumOfCubes</a> :The purpose of this program is to write a program which finds the smallest number (excluding 1) whose sum of cubes of digits are equal to that number. The program should print the number you found as output.
+* <a href="https://github.com/myanar7/SimpleJavaProjects/blob/main/WordSearch.java">WordSearch</a> :The main purpose of this assignment is to write a program that tests whether a two-dimensional list has string keyword, either horizontally, vertically, or diagonally
